@@ -1,0 +1,1 @@
+glove.6B.100d file is required under the data/ file. (https://github.com/allenai/spv2/blob/master/model/glove.6B.100d.txt.gz)
